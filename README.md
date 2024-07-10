@@ -5,7 +5,7 @@
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/JacobKnittle/osticket-prerequisites)
   - [osTicket: Post-Installation Configuration](https://github.com/JacobKnittle/osTicket-Post-Install-Config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/JacobKnittle/osTicket-Lifecycle-Examples)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/JacobKnittle/osTicket-Lifecycle-Examples)
 - <b>Microsoft-Azure-VM-and-ProtonVPN-Setup</b>
