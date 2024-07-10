@@ -7,7 +7,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/JacobKnittle/osTicket-Post-Install-Config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/JacobKnittle/osTicket-Lifecycle-Examples)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/JacobKnittle/osTicket-Lifecycle-Examples)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/JacobKnittle/Active-Directory-Install-and-Configure-Using-Azure)
 - <b>Microsoft-Azure-VM-and-ProtonVPN-Setup</b>
   - [Setting up and configuring Proton VPN on an Azure Virtual Machine](https://github.com/JacobKnittle/Microsoft-Azure-VM-and-ProtonVPN-Setup)
 <h2>🤳Connect with me:</h2>
