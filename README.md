@@ -3,9 +3,9 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/joshmadakorcc/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
+  - [osTicket: Prerequisites and Installation](https://github.com/JacobKnittle/osticket-prerequisites)
+  - [osTicket: Post-Installation Configuration](https://github.com/JacobKnittle/osTicket-Post-Install-Config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/JacobKnittle/osTicket-Lifecycle-Examples)
 - <b>Microsoft Azure</b>
   - [Active-Directory-Install-and-Configure-Using-Azure](https://github.com/JacobKnittle/Active-Directory-Install-and-Configure-Using-Azure)
   - [Microsoft-Azure-VM-and-ProtonVPN-Setup](https://github.com/JacobKnittle/Microsoft-Azure-VM-and-ProtonVPN-Setup)
